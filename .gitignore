@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+response.mp3
+.env
