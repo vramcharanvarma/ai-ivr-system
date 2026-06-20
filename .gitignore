@@ -1,4 +1,7 @@
 __pycache__/
 *.pyc
-response.mp3
 .env
+response.mp3
+temp_audio.wav
+*.mp3
+*.wav

@@ -28,7 +28,10 @@ LLM Response Generation
 Text-to-Speech (gTTS)
 ↓
 Audio Response to User
+## System Highlights
 
+- Implemented an end-to-end audio processing and response generation pipeline for seamless voice interactions.
+- Optimized response flow to improve interaction quality and reduce conversational latency.
 ## Future Improvements
 
 - Real-time microphone support
